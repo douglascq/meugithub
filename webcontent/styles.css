@@ -1,0 +1,24 @@
+.mdl-grid {
+	text-align: center;
+}
+.box {
+	width: 100%;
+	text-align: center;
+	margin: 10px;
+}
+
+table {
+	width: 90%;
+	margin: auto;
+}
+
+#id foto {
+	display: none;
+}
+
+.erro {
+	color: red;
+	margin: 20px;
+	font-size: 18px;
+}
+
